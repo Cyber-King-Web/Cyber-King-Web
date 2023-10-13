@@ -129,9 +129,8 @@
 <br/>
 
 ## My Picture ⬇️
-<img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/myImage.png" align="left">
 
-## My Imaginary Picture ⬇️
+<img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/myImage.png" align="left">
 <img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/hacking-hacker.gif" align="rihgt">
 
 <br/>
