@@ -1,24 +1,17 @@
-
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
+  Welcome to Mohammad Zahid Quadri World!
+</h2> -->
 
-<!--
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Cyber-King-Web"><img src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/banner.png"></a>
 </p>
 
- -->
-
-<a href="https://komarev.com/ghpvc/?username=Cyber-King-Web">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Cyber-King-Web&label=Visitors&color=yellow&style=flat" alt="Profile visitor" />
-</a>
+![Profile](https://komarev.com/ghpvc/?username=Cyber-King-Web&color=yellow)
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+-->
 
 <!-- Intro  -->
 <h3 align="center">
@@ -131,10 +124,13 @@
 </a>
 
 
-![Zahid Quadri's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-King-Web&custom_title=Zahid%20uadri%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Zahid Quadri's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-King-Web&custom_title=Mohammad%20Zahid%20Quadri%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+<br/>
+
+## My Picture ⬇️
 <img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/myImage.png" align="left">
 
-
+## My Imaginary Picture ⬇️
 <img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/hacking-hacker.gif" align="rihgt">
 
