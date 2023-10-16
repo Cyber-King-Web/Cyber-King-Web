@@ -52,6 +52,10 @@
   </a> 
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Cyber_King) 
+![Discord](https://img.shields.io/discord/1096573402145370172?style=for-the-badge&logo=discord&logoColor=cyan&label=Chat&labelColor=%23EA1179)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/mohammaquadri)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@zahid_quadri)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Zahid_Quadri) 
   
 </p>
 <br />
