@@ -4,7 +4,7 @@
 </h2> -->
 
 <p align="center">
-  <a href="https://github.com/Cyber-King-Web"><img src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/banner.png"></a>
+  <a href="https://github.com/Cyber-King-Web"><img src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/banner.png" alt="Mohammad Zahid Quadri"></a>
 </p>
 
 ![Profile](https://komarev.com/ghpvc/?username=Cyber-King-Web&color=yellow)
@@ -33,22 +33,22 @@
 
 <p align="center">
  <a href="https://quadriweb.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Zahid" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Mohammad Zahid Quadri" />
  </a>
  <a href="https://www.linkedin.com/in/mohammad-zahid-quadri-676969212/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zahid"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohammad Zahid Quadri"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Mohammad Zahid Quadri" />
  </a> -->
  <a href="https://x.com/_King_Quadri" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/king_zahid_quadri" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Zahid" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Mohammad Zahid Quadri" />
  </a> 
  <a href="https://www.facebook.com/mohammad.zahid.quadri" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Zahid"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Mohammad Zahid Quadri"  />
   </a> 
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Cyber_King) 
@@ -104,7 +104,7 @@
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Cyber-King-Web&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io) -->
 
 <p align="left">
-  <a href="https://github.com/Cyber-King-Web?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Cyber-King-Web?tab=repositories" target="_blank" alt="Mohammad Zahid Quadri"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -113,13 +113,13 @@
 
 <p align="center">
   <a href="https://github.com/Cyber-King-Web">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Zahid GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Mohammad Zahid Quadri"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Cyber-King-Web">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyber-King-Web&theme=radical" alt="Zahid Quadri GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyber-King-Web&theme=radical" alt="Mohammad Zahid Quadri"/>
   </a>
 </p>
 
@@ -136,8 +136,8 @@
 
 ## My Picture ⬇️
 
-<img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/myImage.png" align="left">
-<img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/hacking-hacker.gif" align="rihgt">
+<img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/myImage.png" align="left" alt="Mohammad Zahid Quadri">
+<img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/hacking-hacker.gif" align="rihgt" alt="Mohammad Zahid Quadri">
 
 <br/>
 
