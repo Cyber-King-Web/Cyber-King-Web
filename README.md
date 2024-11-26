@@ -136,7 +136,7 @@
 
 ## My Picture ⬇️
 
-<img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/Mohammad Zahid Quadri.png" align="left" alt="Mohammad Zahid Quadri">
+<img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/Mohammad_Zahid_Quadri.png" align="left" alt="Mohammad Zahid Quadri">
 <img width="300" src="https://github.com/Cyber-King-Web/Cyber-King-Web/blob/main/hacking-hacker.gif" align="rihgt" alt="Mohammad Zahid Quadri">
 
 <br/>
